@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This became outdated really quickly with the Proof Reader GPT I created. Here's the link: [Proof Reader GPT](https://chatgpt.com/g/g-677c8f497fa081918617225aeb55db97-proof-reader)
+>  
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
